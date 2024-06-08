@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**lauren-e-gardner/lauren-e-gardner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h1>Welcome to my GitHub! 👋</h1>
+  <p>
+    Lauren Gardner <br>
+    <a href="mailto:laurenator1784@gmail.com">Email</a> • <a href="https://lauren-e-gardner.github.io/">Website</a>
+  </p>
+  
+  ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<br>
+  ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+  ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+</div>
 
-Here are some ideas to get you started:
+## 📘 About Me
+<p>I'm Lauren Gardner, a recent graduate from Princeton University. I majored in Computer Science with a focus on visual arts and video game development. </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Profile stats
+[![repositories - 9](https://img.shields.io/badge/repositories-9-blue)](https://github.com/lauren-e-gardner?tab=repositories)
+![](https://visitor-badge.glitch.me/badge?page_id=lauren-e-gardner.lauren-e-gardner)
+
+<img src="https://github-readme-stats.vercel.app/api?username=lauren-e-gardner&bg_color=80808020&hide_title=true&count_private=true&hide_border=true&text_color=808080" height="150"></img>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauren-e-gardner&layout=compact&bg_color=80808020&hide_title=true&count_private=true&hide_border=true&text_color=808080" height="150"></img>
