@@ -15,10 +15,10 @@
 </div>
 
 ## 📘 About Me
-<p>I'm Lauren Gardner, a recent graduate from Princeton University. I majored in Computer Science with a focus on visual arts and video game development. </p>
+<p>I'm Lauren Gardner, a recent graduate from Princeton University. I majored in Computer Science with a focus on visual arts and video game development. I now work mainly in JavaScript, TypeScript, and Python for frontend web applications and data analysis. </p>
 
 ## 📊 Profile stats
-[![repositories - 9](https://img.shields.io/badge/repositories-9-blue)](https://github.com/lauren-e-gardner?tab=repositories)
+[![repositories - 18](https://img.shields.io/badge/repositories-9-blue)](https://github.com/lauren-e-gardner?tab=repositories)
 ![](https://visitor-badge.glitch.me/badge?page_id=lauren-e-gardner.lauren-e-gardner)
 
 <img src="https://github-readme-stats.vercel.app/api?username=lauren-e-gardner&bg_color=80808020&hide_title=true&count_private=true&hide_border=true&text_color=808080" height="150"></img>
