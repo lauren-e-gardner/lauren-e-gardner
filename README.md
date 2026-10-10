@@ -15,7 +15,7 @@
 </div>
 
 ## 📘 About Me
-<p>I'm Lauren Gardner, a recent graduate from Princeton University. I majored in Computer Science with a focus on visual arts and video game development. I now work mainly in JavaScript, TypeScript, and Python for frontend web applications and data analysis. </p>
+<p>I'm Lauren Gardner, a graduate from Princeton University. I majored in Computer Science with a focus on visual arts and 3D graphics. I now work mainly in frontend development using JavaScript and TypeScript. I have experience with React development for desktop, android, and iOS devices and focus on design system creation and maintenance. </p>
 
 ## 📊 Profile stats
 [![repositories - 18](https://img.shields.io/badge/repositories-18-blue)](https://github.com/lauren-e-gardner?tab=repositories)
